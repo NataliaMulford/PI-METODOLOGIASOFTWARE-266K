@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Archivos temporales de Windows
+Thumbs.db
+
+# Archivos de macOS
+.DS_Store
+
+# Logs
+*.log
